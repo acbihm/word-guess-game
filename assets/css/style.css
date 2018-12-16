@@ -7,13 +7,8 @@ body {
 
 }
 div {
-    color: white;
+    color: blue;
     float: left;
 
 }
 
-img {
-    opacity: 0.1;
-    float: left;
-    position: absolute;
-}
